@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.shortbrain.vaadin</groupId>
+  <artifactId>vaadin-container-utils</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120717203007</lastUpdated>
+  </versioning>
+</metadata>
