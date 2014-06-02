@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.googlecode.gwtupload</groupId>
+  <artifactId>gwtupload-samples</artifactId>
+  <version>1.0.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140602.114907</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140602114907</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>war</extension>
+        <value>1.0.2-20140602.114907-1</value>
+        <updated>20140602114907</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.2-20140602.114907-1</value>
+        <updated>20140602114907</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.2-20140602.114907-1</value>
+        <updated>20140602114907</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
